@@ -27,13 +27,15 @@
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=express"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
+     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
+     <img src="https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express"/>
      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
      <br>
