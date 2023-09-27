@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Avinash 
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+
 <table>
   <tr>
     <td>
@@ -14,12 +14,12 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avinash7390&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="https://github.com/Avinash7390/VCS/blob/master/src/6f89f2fa71a68c0f0bb98064f3554ba2.jpg"/>
      </p>
     </td>
   </tr>
