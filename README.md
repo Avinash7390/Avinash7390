@@ -57,7 +57,7 @@
       <a href="mailto:kumaravinash42592021@gmail.com" >
       <img align="center" alt="Avinash | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="www.linkedin.com/in/avinashk18" >
+      <a href="https://www.linkedin.com/in/avinashk18/" >
       <img align="center" alt="Avinash | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
