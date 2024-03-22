@@ -9,12 +9,12 @@
        <ul>
         <li>🎓 &nbsp; Btech. Computer Science & Engineering from MNNIT Allahabad, Prayagraj, India </li>
         <li>📚 &nbsp; Data Structure Enthusiast </li>
+         <li>📚 &nbsp; Doing Competative Programming </li>
         <li>👑 &nbsp; Junior Web Developer </li>
         <li>🤔 &nbsp; Interested in AI and Machine Learning</li>
        </ul>
        <p align="center">
-         <br>
-<!--         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avinash7390&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+         <br/>
         </p>
     </td>
     <td>
@@ -25,26 +25,14 @@
   </tr>
   <tr>
    <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-     <img src="https://img.shields.io/badge/-ExpressJs-05122A?style=flat&logo=express"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <br>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <h2> 🛠 &nbsp;Tech Stack, I'm familiar with</h2>
+     
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,ts,nodejs,expressjs,mongodb,mysql,bootstrap,react,vite,tailwind,html,css,git,linux,discordjs,jquery,materialui,npm,firebase,sass&perline=5)](https://skillicons.dev)
+
+<h2>Development Tools, I'm familiar with</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,mysql,postman,github,idea,powershell,visualstudio,bash&perline=5)](https://skillicons.dev)
+     
    </td>
    <td>
     <div align="center">
