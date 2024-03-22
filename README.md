@@ -9,7 +9,7 @@
        <ul>
         <li>🎓 &nbsp; Btech. Computer Science & Engineering from MNNIT Allahabad, Prayagraj, India </li>
         <li>📚 &nbsp; Data Structure Enthusiast </li>
-         <li>📚 &nbsp; Doing Competative Programming </li>
+         <li>📚 &nbsp; Doing Competitive Programming </li>
         <li>👑 &nbsp; Junior Web Developer </li>
         <li>🤔 &nbsp; Interested in AI and Machine Learning</li>
        </ul>
