@@ -31,7 +31,7 @@
 
 <h2>Development Tools, I'm familiar with</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,mysql,postman,github,idea,powershell,visualstudio,bash&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,mysql,postman,github,idea,powershell,visualstudio,bash,docker&perline=5)](https://skillicons.dev)
      
    </td>
    <td>
