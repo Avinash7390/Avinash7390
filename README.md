@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Avinash 
+## I'm Kunal kumar shukla 
 
 <table>
   <tr>
@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Avinash7390/VCS/blob/master/src/6f89f2fa71a68c0f0bb98064f3554ba2.jpg"/>
+        <img height="360em" src="https://github.com/kunalevicshukla11/VCS/blob/master/src/6f89f2fa71a68c0f0bb98064f3554ba2.jpg"/>
      </p>
     </td>
   </tr>
@@ -42,11 +42,11 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="mailto:kumaravinash42592021@gmail.com" >
-      <img align="center" alt="Avinash | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:KunalKumarshukla2002@gmail.com" >
+      <img align="center" alt="Kunal | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/avinashk18/" >
-      <img align="center" alt="Avinash | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <a href="https://www.linkedin.com/in/kunalevicshukla/" >
+      <img align="center" alt="Kunal | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
