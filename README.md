@@ -27,7 +27,7 @@
    <td>
      <h2> 🛠 &nbsp;Tech Stacks, I'm familiar with</h2>
      
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,ts,nodejs,expressjs,mongodb,mysql,bootstrap,react,vite,tailwind,html,css,git,linux,discordjs,jquery,materialui,npm,firebase,sass&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,javascript,java,ts,nodejs,expressjs,mongodb,mysql,bootstrap,react,vite,tailwind,html,css,git,linux,discordjs,jquery,materialui,npm,firebase,sass&perline=5)](https://skillicons.dev)
 
 <h2>Development Tools, I'm familiar with</h2>
 
