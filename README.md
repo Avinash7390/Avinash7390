@@ -7,11 +7,11 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; Btech. Computer Science & Engineering from MNNIT Allahabad, Prayagraj, India </li>
-        <li>📚 &nbsp; Data Structure Enthusiast </li>
+        <li>🎓 &nbsp; Bachelor's in Computer Science [NIT Allahabad, Prayagraj]</li>
+        <li>📚 &nbsp; Love doing problem solving.</li>
          <li>📚 &nbsp; Doing Competitive Programming </li>
-        <li>👑 &nbsp; Junior Web Developer </li>
-        <li>🤔 &nbsp; Interested in AI and Machine Learning</li>
+        <li>👑 &nbsp; Web Developer </li>
+        <li>🤔 &nbsp; Learning to build Scalable, Reliable and Maintainable Systems.</li>
        </ul>
        <p align="center">
          <br/>
