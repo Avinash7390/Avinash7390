@@ -12,6 +12,7 @@
          <li>📚 &nbsp; Doing Competitive Programming </li>
         <li>👑 &nbsp; Web Developer </li>
         <li>🤔 &nbsp; Learning to build Scalable, Reliable and Maintainable Systems.</li>
+         <li>💪 &nbsp; Building what AI & GPTs can't.</li>
        </ul>
        <p align="center">
          <br/>
